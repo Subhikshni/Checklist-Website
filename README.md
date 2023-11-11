@@ -1,6 +1,6 @@
 # Checklist App 📋
 
-![Checklist App](url_to_your_image_or_logo.png)
+![Checklist App](url_to_your_image_or_logo.png)(https://venerable-pie-2cb220.netlify.app/)
 
 ## Introduction
 
