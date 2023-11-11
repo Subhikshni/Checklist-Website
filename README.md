@@ -1,6 +1,6 @@
 # Checklist App 📋
 
-![Checklist App](https://github.com/Subhikshni/Checklist-Website/blob/main/Screenshot%20(91).png)(https://venerable-pie-2cb220.netlify.app/)
+[![Checklist App](https://github.com/Subhikshni/Checklist-Website/blob/main/Screenshot%20(91).png)](https://venerable-pie-2cb220.netlify.app/)
 
 ## Introduction
 
