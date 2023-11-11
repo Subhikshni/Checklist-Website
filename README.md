@@ -2,6 +2,8 @@
 
 [![Checklist App](https://github.com/Subhikshni/Checklist-Website/blob/main/Screenshot%20(91).png)](https://venerable-pie-2cb220.netlify.app/)
 
+Click the above image to check the website.
+
 ## Introduction
 
 Welcome to the Checklist App, a sleek and intuitive to-do list application designed and developed by Subhikshni V S. This project serves as a testament to my journey in web development and full-stack capabilities.
